@@ -1,0 +1,10 @@
+.delIcon{
+    display:none
+}
+
+.makeStyles-folder-11:hover .delIcon{
+    position:absolute;
+    right:0;
+    top: 0;
+    display: block;
+}
